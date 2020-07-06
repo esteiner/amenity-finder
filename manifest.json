@@ -1,0 +1,16 @@
+{
+  "name" : "Amenity-Finder",
+  "short_name" : "Amenity-Finder",
+  "description" : "Find amenities from the OpenStreetMap API.",
+  "start_url" : "/",
+  "display" : "standalone",
+  "orientation" : "portrait",
+  "lang" : "English",
+  "icons": [
+    {
+      "src": "images/manifest/logo-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
